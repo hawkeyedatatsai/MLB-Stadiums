@@ -3,3 +3,9 @@
 [image source](https://www.imdb.com/title/tt11312618/?ref_=tt_mv_close)
 
 # MLB-Stadiums
+
+This is a dataset from a [Kaggle challenge](https://www.kaggle.com/datasets/paulrjohnson/mlb-ballparks) in which it describe the physical and environmental dimensions of 2022 season Major League Baseball (MLB) ballparks. The dimensions ogf these ballpark are often relevant on analysing or predicting outcomes of hitting.
+
+I apply four different clustering methods and analyze the result of each and individual methods. 
+
+Please direct all communications to Henry Tsai at hawkeyetsai@gmail.com
